@@ -25,7 +25,7 @@ pod 'Fruits'
 
 ## Author
 
-Joe Ferrucci, [@nodebase on Twitter](https://www.twitter.com/nodebase)
+Joe Ferrucci, [@eojmf on Twitter](https://www.twitter.com/eojmf)
 
 ## License
 
